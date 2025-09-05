@@ -2,8 +2,8 @@
 ## Complete Assignment Solution
 
 ### Team Information
-- **Team Members**: [Enter your team member names here]
-- **Admission Numbers**: [Enter your admission numbers here]
+- **Team Members**:Emmanuel Onyango, Shone Kahuria
+- **Admission Numbers**: 191258, 191600
 - **Date**: September 5, 2025
 - **Assignment**: Advanced Subnetting VLSM Exercise
 
